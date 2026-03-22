@@ -30,7 +30,7 @@ VALUES  (1,'John','Doe','IT',55000,'2018-06-15','New York'),
         (6,'Emily','Davis', 'IT',62000, '2015-02-14','Chicago'),
         (7,'Robert','Wilson', 'Finance',59000, '2019-10-01','Houston'),
         (8,'Jessica','Moore','HR',51000, '2018-05-22','Los Angeles'),
-        (9,'Daniel','Clark', 'Maarketing',53000, '2022-06-01','Chicago'),
+        (9,'Daniel','Clark', 'Marketing',53000, '2022-06-01','Chicago'),
         (10,'Laura','Hall', 'IT',50000, '2020-08-10','San Francisco');
 
         
