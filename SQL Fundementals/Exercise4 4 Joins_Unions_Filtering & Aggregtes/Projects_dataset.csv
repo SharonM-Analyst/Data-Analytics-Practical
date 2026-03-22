@@ -1,0 +1,7 @@
+ProjectID,EmployeeIDs,ProjectName,Budget,StartDate,Status
+101,1,AI Development,100000,2024-01-10,Completed
+102,2,Employee Training,50000,2024-02-15,Ongoing
+103,1,Cybersecurity Audit,75000,2024-03-05,Pending
+104,3,Financial Analysis,90000,2024-04-12,Ongoing
+105,5,Market Expansion,65000,2024-05-20,Completed
+106,6,Risk Management,80000,2024-06-10,Pending
