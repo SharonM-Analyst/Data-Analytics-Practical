@@ -1,0 +1,6 @@
+ticket_id,issue_type,priority
+1,Login Issue,1
+2,Server Down,3
+3,Slow System,2
+4,Email Error,2
+5,Passsword Reset,1
