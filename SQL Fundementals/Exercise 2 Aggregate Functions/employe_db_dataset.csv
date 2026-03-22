@@ -1,0 +1,11 @@
+id,first_name,last_name,departments,salary,hire_date,city
+1,John,Doe,IT,55000,2018-06-15,New York
+2,Jane,Smith,HR,48000,2019-07-20,Chicago
+3,Mike,Johnson,Finance,60000,2017-09-30,Los Angeles
+4,Sarah,Brown,IT,53000,2021-03-25,New York
+5,David,White,Marketing,52000,2016-04-10,San Francisco
+6,Emily,Davis,IT,62000,2015-02-14,Chicago
+7,Robert,Wilson,Finance,59000,2019-10-01,Houston
+8,Jessica,Moore,HR,51000,2018-05-22,Los Angeles
+9,Daniel,Clark,Marketing,53000,2022-06-01,Chicago
+10,Laura,Hall,IT,50000,2020-08-10,San Francisco
